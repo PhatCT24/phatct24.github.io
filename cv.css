@@ -81,6 +81,7 @@ ul li::before {
 .contact-me{
     text-align: center;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 .contact-me a {
     display: inline-block;
